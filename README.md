@@ -5,5 +5,5 @@ Output.txt will be the correct answer for each test case
 
 Run ./script.sh to test your code locally, if correct, you should see:
 
-Method 1: Test Passed!
+Method 1: Test Passed!\
 Method 2: Test Passed!
